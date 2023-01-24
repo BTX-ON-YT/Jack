@@ -16,4 +16,4 @@
 - HTML
 - Docker
 - Github
-- React
+- Vue
