@@ -10,6 +10,7 @@
 - Node.js
 - Redis
 - Mongo DB
+- Postgresql
 - Rabbit MQ
 - Firebase
 - CSS
