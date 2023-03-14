@@ -16,4 +16,4 @@
 - HTML
 - Docker
 - Github
-- Vue
+- Svelte
