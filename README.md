@@ -12,7 +12,6 @@
 - Mongo DB
 - Postgresql
 - Rabbit MQ
-- Firebase
 - CSS
 - HTML
 - Docker
